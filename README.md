@@ -1,2 +1,33 @@
-# DVLD-System
-Full-stack desktop application in C# (.NET Framework) and SQL Server for managing driving vehicle licensing processes, covering multiple license types, test tracking, and administrative workflows, built with a three-tier architecture.
+# Driving Vehicle Licensing System (DVLD)
+
+A full-stack desktop application for managing driving vehicle licensing operations, built with C# (.NET Framework) and SQL Server.
+
+## Features
+
+- Manage multiple application types:
+  - Local Application
+  - International Application
+  - Renew License
+  - Replace Lost/Damaged License
+  - Release Detained License
+- Handle different license classes:
+  - Small Motorcycle
+  - Heavy Motorcycle
+  - Ordinary Driving License
+  - Commercial Vehicles
+  - Small/Medium Bus
+  - Trucks and Heavy Vehicles
+- Track required tests:
+  - Vision Test
+  - Written Test
+  - Street Test
+- User-friendly WinForms interface
+- Three-tier architecture for maintainability and scalability
+- Secure data access using ADO.NET
+
+## Tech Stack
+
+- C# (.NET Framework)
+- SQL Server
+- WinForms
+- ADO.NET
