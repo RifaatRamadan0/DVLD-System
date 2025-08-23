@@ -1,4 +1,4 @@
-# Driving Vehicle Licensing System (DVLD)
+# Driving Vehicle Licensing Department (DVLD) System
 
 A full-stack desktop application for managing driving vehicle licensing operations, built with C# (.NET Framework) and SQL Server.
 
