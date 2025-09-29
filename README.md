@@ -2,7 +2,7 @@
 
 A full-stack desktop application for managing driving vehicle licensing operations, built with C# (.NET Framework) and SQL Server.
 
-## Video Demo:
+## Video Demo
 https://youtu.be/he9yzufpoqc
 
 ## Features
